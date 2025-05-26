@@ -116,8 +116,6 @@ def index():
         rx.vstack(
             barra(),
             principal(),
-            spacing="0",
-            align="stretch",
             width="100%",
         ),
         
